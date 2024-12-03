@@ -23,16 +23,16 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Automação com IA
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Usei o Many Chat, o Make e o ChatGPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Criei um atendimento de uma agnci ade viagem, treinei a IA e ela consegue atender o cliente e sugerir passeios, pacotes, etc
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Sucesso no atendimento, mais resultados, menos erros e tempo de espera.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
